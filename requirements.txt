@@ -1,0 +1,5 @@
+djangorestframework
+django
+PyPDF2
+python-dotenv
+google-generativeai
