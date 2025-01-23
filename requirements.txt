@@ -6,3 +6,4 @@ google-generativeai
 cloudinary
 bardapi
 djangorestframework-simplejwt
+cloudinary_storage
