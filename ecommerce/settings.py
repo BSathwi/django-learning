@@ -95,6 +95,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'ecommerce.wsgi.application'
+ALLOWED_HOSTS = ['django-learning-srnn.onrender.com', '127.0.0.1', 'localhost']
+
 
 
 # Database
