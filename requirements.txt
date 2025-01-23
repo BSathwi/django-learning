@@ -5,4 +5,4 @@ python-dotenv
 google-generativeai
 cloudinary
 bardapi
-rest_framework_simplejwt
+djangorestframework-simplejwt
